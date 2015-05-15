@@ -1,11 +1,11 @@
 This is the running list of tasks that currently need to be done.
 The tasks are organized under #GOALS.
-If this document is used correclty  after all tasks are marked complete the #GOAL will be considered complete.
+If this document is used correclty  after all tasks are marked complete the GOAL will be considered complete.
 
-In other words, if ALL tasks under ##DRIVE MOTORS are marked complete THEN we should be able to have full capability to ##DRIVE MOTORS
+######In other words, if ALL tasks under DRIVE MOTORS are marked complete THEN we should be able to have full capability to DRIVE MOTORS
 
- IN ADDITION PLEASE ADHERE TO THE FOLLOWING NAMING CONVENTIONS:
-================================================================
+### IN ADDITION PLEASE ADHERE TO THE FOLLOWING NAMING CONVENTIONS:
+
 
 #### ALL PRIMARY GOALS SUCH AS: CONTROLLING CAR, COMMUNICATION BETWEEN CHRONOS AND BEAGLE BONE ETC.. SHOULD BE IN H4 FORMAT
 
@@ -16,18 +16,18 @@ In other words, if ALL tasks under ##DRIVE MOTORS are marked complete THEN we sh
 ALL OTHER SUB TASKS CAN BE IN THE DEFAULT FORMAT
 
 
-NOTE:GOALS SHOULD BE IN ALL CAPS AND TASKS SHOULD BE IN lowercase for ease of readability 
-=========================================================================================
+###NOTE:GOALS SHOULD BE IN ALL CAPS AND TASKS SHOULD BE IN lowercase for ease of readability 
 
 
-TO STRIKE OUT A TASK(MARK IT COMPLETE) surround the task with double tildes should look like this:
-==================================================================================================
+
+###TO STRIKE OUT A TASK(MARK IT COMPLETE) surround the task with double tildes should look like this:
+
 
 ~~look at me i am a task and i am in all lower case because i like to follow the rules and i am also done because im striken~~
 
 
-NOW THAT WE KNOW THE RULES WE CAN START THE TASK LIST
-=====================================================
+##NOW THAT WE KNOW THE RULES WE CAN START THE TASK LIST
+
 
 
 GOALS:
