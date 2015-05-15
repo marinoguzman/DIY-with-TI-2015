@@ -32,23 +32,23 @@ ALL OTHER SUB TASKS CAN BE IN THE DEFAULT FORMAT
 
 GOALS:
 ======
-#### COMMUNICATIONS BETWEEN BEAGLEBONE AND CHRONOS
+#### *COMMUNICATIONS BETWEEN BEAGLEBONE AND CHRONOS
 
-#####   DEVELOP INTERFACE CODE FOR BLUTOOTH-ESQUE CHRONOS AND BLUTOOTH BEAGLEBONE DONGLE
+#####   *DEVELOP INTERFACE CODE FOR BLUTOOTH-ESQUE CHRONOS AND BLUTOOTH BEAGLEBONE DONGLE
     
-      read up on chronos protocols and blutooth in general
+     * read up on chronos protocols and blutooth in general
       
-      download chronos dev tools
+     * download chronos dev tools
       
-      acquire blutooth dongle
+     * acquire blutooth dongle
       
-      write simple code that sends dummy data from chronos to any blutooth device
+     * write simple code that sends dummy data from chronos to any blutooth device
       
-      write code for beagle bone that can recieve blutooth data
+     * write code for beagle bone that can recieve blutooth data
       
-      demo working tx and rx from chronos to beagle bone
+     * demo working tx and rx from chronos to beagle bone
       
-      create video of demo and post link here 
+     * create video of demo and post link here 
       
       
       
